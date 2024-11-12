@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🔭 I’m currently working on Uptime Checker application
+# 🔭 I’m currently working on Uptime Checker application
 - 🌱 I’m currently learning GoLang practically
 - 🤔 I’m looking for help with technical knowledge
 - 💬 Ask me about self development and productivity
