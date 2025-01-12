@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-# 🔭 I’m currently working on Uptime Checker application
-- 🌱 I’m currently learning GoLang practically
+# 🔭 I’m currently working on Meowsic telegram mini app
+- 🌱 I’m currently learning about Database (design, optimization, features)
 - 🤔 I’m looking for help with technical knowledge
 - 💬 Ask me about self development and productivity
 
